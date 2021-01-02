@@ -1,0 +1,80 @@
+{"reelRewards":
+[{"reelFigure": "eCoin",
+  "matchType": 
+[
+    { "matchSymbols": 3,  
+      "rewards":
+      [
+          {"type": "eCoin", "amount": 45 },
+          {"type": "XP", "amount": 220 }
+      ]
+    }
+]},
+ {"reelFigure": "eWaterStamina",
+"matchType": 
+[
+    { "matchSymbols": 3,  
+      "rewards":
+      [
+          {"type": "eWaterStamina", "amount": 300 },
+          {"type": "XP", "amount": 500 }
+      ]
+    }
+  ]},
+  {"reelFigure": "eAttack",
+"matchType": 
+[
+    { "matchSymbols": 3,  
+      "rewards":
+      [
+          {"type": "eAttack", "amount": 300 },
+          {"type": "XP", "amount": 40 }
+      ]
+    }
+  ]},
+  {"reelFigure": "eRaid",
+"matchType": 
+[
+    { "matchSymbols": 3,  
+      "rewards":
+      [
+          {"type": "eRaid", "amount": 4200 },
+          {"type": "XP", "amount": 50 }
+      ]
+    }
+  ]},
+  {"reelFigure": "ePlantStamina",
+"matchType": 
+[
+    { "matchSymbols": 3,  
+      "rewards":
+      [
+          {"type": "ePlantStamina", "amount": 300 },
+          {"type": "XP", "amount": 45 }
+      ]
+    }
+  ]},
+  {"reelFigure": "eFireStamina",
+"matchType": 
+[
+    { "matchSymbols": 3,  
+      "rewards":
+      [
+          {"type": "eFireStamina", "amount": 300 },
+          {"type": "XP", "amount": 60 }
+      ]
+    }
+  ]},
+  {"reelFigure": "eEarthStamina",
+"matchType": 
+[
+    { "matchSymbols": 3,  
+      "rewards":
+      [
+          {"type": "eEarthStamina", "amount": 300 },
+          {"type": "XP", "amount": 40 }
+      ]
+    }
+  ]}]
+}
+ 

@@ -1,0 +1,146 @@
+{
+  "MinimumMatchFrequency": 10,
+  "MaximumMatchFrequency": 50,
+  "PlayersList": [
+    {
+      "id": 0,
+      "PlayerName": "Henry Warman",
+      "PlayerLevel": 3,
+      "PlayerCoins": 324234,
+      "PlayerImage": "PlayerImages/0"
+    },
+    {
+      "id": 1,
+      "PlayerName": "Frank Sprake",
+      "PlayerLevel": 3,
+      "PlayerCoins": 345343,
+      "PlayerImage": "PlayerImages/1"
+    },
+    {
+      "id": 2,
+      "PlayerName": "Elbert Downer",
+      "PlayerLevel": 4,
+      "PlayerCoins": 456456,
+      "PlayerImage": "PlayerImages/2"
+    },
+    {
+      "id": 3,
+      "PlayerName": "Roosevelt Coffen",
+      "PlayerLevel": 2,
+      "PlayerCoins": 23423,
+      "PlayerImage": "PlayerImages/3"
+    },
+    {
+      "id": 4,
+      "PlayerName": "Chester Lacey",
+      "PlayerLevel": 1,
+      "PlayerCoins": 89797,
+      "PlayerImage": "PlayerImages/4"
+    },
+    {
+      "id": 5,
+      "PlayerName": "Dennis gatrell",
+      "PlayerLevel": 2,
+      "PlayerCoins": 103453,
+      "PlayerImage": "PlayerImages/5"
+    },
+    {
+      "id": 6,
+      "PlayerName": "Alan Smith",
+      "PlayerLevel": 3,
+      "PlayerCoins": 345799,
+      "PlayerImage": "PlayerImages/6"
+    },
+    {
+      "id": 7,
+      "PlayerName": "Roy King",
+      "PlayerLevel": 14,
+      "PlayerCoins": 43598734,
+      "PlayerImage": "PlayerImages/7"
+    },
+    {
+      "id": 8,
+      "PlayerName": "Cecil Warmen",
+      "PlayerLevel": 9,
+      "PlayerCoins": 973459,
+      "PlayerImage": "PlayerImages/8"
+    },
+    {
+      "id": 9,
+      "PlayerName": "Anne Newnham",
+      "PlayerLevel": 3,
+      "PlayerCoins": 134354,
+      "PlayerImage": "PlayerImages/9"
+    },
+    {
+      "id": 10,
+      "PlayerName": "Anne Barnes",
+      "PlayerLevel": 1,
+      "PlayerCoins": 89689,
+      "PlayerImage": "PlayerImages/10"
+    },
+    {
+      "id": 11,
+      "PlayerName": "Caroline Moore",
+      "PlayerLevel": 3,
+      "PlayerCoins": 347897,
+      "PlayerImage": "PlayerImages/11"
+    },
+    {
+      "id": 12,
+      "PlayerName": "Nancy Jackman",
+      "PlayerLevel": 1,
+      "PlayerCoins": 10000,
+      "PlayerImage": "PlayerImages/12"
+    },
+    {
+      "id": 13,
+      "PlayerName": "Lizzie Gun",
+      "PlayerLevel": 17,
+      "PlayerCoins": 7893475,
+      "PlayerImage": "PlayerImages/13"
+    },
+    {
+      "id": 14,
+      "PlayerName": "Nell Barnes",
+      "PlayerLevel": 1,
+      "PlayerCoins": 10000,
+      "PlayerImage": "PlayerImages/14"
+    },
+    {
+      "id": 15,
+      "PlayerName": "Jessie Mathews",
+      "PlayerLevel": 12,
+      "PlayerCoins": 2389479,
+      "PlayerImage": "PlayerImages/15"
+    },
+    {
+      "id": 16,
+      "PlayerName": "Irene Russell",
+      "PlayerLevel": 8,
+      "PlayerCoins": 897435,
+      "PlayerImage": "PlayerImages/16"
+    },
+    {
+      "id": 17,
+      "PlayerName": "Lela Brown",
+      "PlayerLevel": 8,
+      "PlayerCoins": 8798345,
+      "PlayerImage": "PlayerImages/17"
+    },
+    {
+      "id": 18,
+      "PlayerName": "Bert Greenham",
+      "PlayerLevel": 34,
+      "PlayerCoins": 34895789,
+      "PlayerImage": "PlayerImages/18"
+    },
+    {
+      "id": 19,
+      "PlayerName": "Celia Strawn",
+      "PlayerLevel": 87,
+      "PlayerCoins": 873475,
+      "PlayerImage": "PlayerImages/19"
+    }
+  ]
+}
